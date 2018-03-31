@@ -9,5 +9,11 @@
             "email": "vba321@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Metaprogramming\\": "src"
+        }
+    }
 }
