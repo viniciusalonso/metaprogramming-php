@@ -1,0 +1,13 @@
+{
+    "name": "vinicius/metaprogramming-php",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Vinícius A.",
+            "email": "vba321@hotmail.com"
+        }
+    ],
+    "require": {}
+}
