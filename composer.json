@@ -1,7 +1,8 @@
 {
     "name": "vinicius/metaprogramming-php",
     "require-dev": {
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^7.0",
+        "phpro/grumphp": "^0.14.0"
     },
     "authors": [
         {
